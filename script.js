@@ -1,3 +1,3 @@
-let user = "John",
-  age = 25,
-  message = "Hello";
+const BIRTHDAY = "04.03.1973";
+
+const age = somecode(BIRTHDAY);
