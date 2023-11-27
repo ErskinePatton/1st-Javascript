@@ -1,1 +1,1 @@
-# 1st-Javascript
+Diving into Javascript
